@@ -262,6 +262,7 @@ nav.menubar a:hover {
   margin: 140px auto;
 }
 .forthSechion a {
+  font-size: 20px;
   text-decoration: none;
   color: gray;
   border: 1px solid #eee;
